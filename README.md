@@ -60,17 +60,6 @@ This project implements an **Expectation-Maximization (EM) algorithm** for segme
 
 ---
 
-## **Project Timeline**
-
-| Task                        | Duration |
-|-----------------------------|----------|
-| Preprocessing (Normalization) | 1 day    |
-| KMeans Initialization         | 1 day    |
-| EM Algorithm Implementation   | 8 days   |
-| Evaluation (Dice Score Calculation) | 2 days |
-
----
-
 ## **Conclusion**
 - Successfully segmented brain tissues (GM, WM, CSF) using the EM algorithm.
 - Evaluated segmentation with Dice similarity coefficients, achieving high performance for WM and GM.
