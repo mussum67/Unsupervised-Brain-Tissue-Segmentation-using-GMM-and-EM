@@ -64,9 +64,3 @@ This project implements an **Expectation-Maximization (EM) algorithm** for segme
 - Successfully segmented brain tissues (GM, WM, CSF) using the EM algorithm.
 - Evaluated segmentation with Dice similarity coefficients, achieving high performance for WM and GM.
 - Future improvements include refining CSF segmentation and addressing modality-based discrepancies (e.g., T2_FLAIR lesions).
-
----
-
-## **Technologies Used**
-- **Python:** Implementation of the EM algorithm and evaluation metrics.
-- **Dice Coefficient:** For quantitative analysis of segmentation accuracy.
