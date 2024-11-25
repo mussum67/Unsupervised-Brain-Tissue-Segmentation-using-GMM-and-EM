@@ -13,7 +13,7 @@ This project implements an **Expectation-Maximization (EM) algorithm** for segme
 
 ### **2. Dataset**
 
-!Dataset Sample[Images\Dataset.png]
+!Dataset Sample[Images/Dataset.png]
 
 ### **2. Methodology**
 - **Preprocessing:**
