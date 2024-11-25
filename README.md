@@ -29,6 +29,8 @@ This project implements an **Expectation-Maximization (EM) algorithm** for segme
 
 ## **Results**
 
+![Dice Score for Tissue Model](Images/result_1.PNG)
+
 ### **Dice Scores for T1 Modality**
 
 | Folder | Mean Dice | Std Dice | GM Dice | WM Dice | CSF Dice |
@@ -56,6 +58,8 @@ This project implements an **Expectation-Maximization (EM) algorithm** for segme
 ---
 
 ## **Analysis of Folder 2 Performance**
+![Folder 2 Segmentation Performance](Images/result_1.PNG)
+
 - **Issue:** T2_FLAIR lesions with higher intensity confused the algorithm, causing misclassification as WM.
 - **Solution:** Using only T1 images improved Dice scores:
   - CSF: 0.853
