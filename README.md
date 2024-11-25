@@ -11,6 +11,10 @@ This project implements an **Expectation-Maximization (EM) algorithm** for segme
 - Use **T1** and **T2_FLAIR** modalities for preprocessing and clustering.
 - Evaluate segmentation results with **Dice similarity coefficients**.
 
+### **2. Dataset**
+
+!Dataset Sample[Images\Dataset.png]
+
 ### **2. Methodology**
 - **Preprocessing:**
   - **Normalization:** Normalize T1 and T2_FLAIR intensities for consistent intensity ranges.
